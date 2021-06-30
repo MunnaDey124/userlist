@@ -1,0 +1,9 @@
+.page_decoration{
+    list-style-type: none;
+    display: flex;
+}
+.page_decoration li{
+    padding: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
